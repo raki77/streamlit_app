@@ -143,7 +143,6 @@ python-dotenv==1.0.1
 python-json-logger==2.0.7
 pytz==2024.1
 PyWavelets==1.4.1
-pywin32 
 pywinpty==2.0.13
 PyYAML==6.0.2
 pyzmq 
