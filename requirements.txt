@@ -6,6 +6,7 @@ matplotlib
 numpy
 pymysql
 mysql-connector-python
+openpyxl
 # Anaconda ==1.12.3
 # Python==3.11.7
 # Mysql ==8.0.17
