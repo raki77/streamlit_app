@@ -5,6 +5,7 @@ plotly
 matplotlib
 numpy
 pymysql
+mysql-connector-python
 # Anaconda ==1.12.3
 # Python==3.11.7
 # Mysql ==8.0.17
