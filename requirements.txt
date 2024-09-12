@@ -1,0 +1,15 @@
+streamlit
+pandas
+matplotlib
+sqlalchemy
+numpy
+pymysql
+# Anaconda == 1.12.3
+# Python == 3.11.7
+# Mysql == 8.0.17
+# Streamlit == 1.35.0
+# Pandas == 2.1.4
+# Plotly == 5.9.0
+# Matplotlib == 3.8.0
+# Sqlalchemy == 2.0.25
+# Numpy == 1.26.4
