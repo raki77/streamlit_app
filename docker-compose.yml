@@ -1,0 +1,12 @@
+version: '3'
+services:
+  httpd:
+    image: httpd:latest
+    ports:
+      - "8501:80"
+  
+  streamlit:
+    image: your-streamlit-image
+    ports:
+      - "8502:8501"
+    command: streamlit run main.py --server.port 8501
